@@ -1,0 +1,35 @@
+h1 {
+    color: rgb(0, 126, 172);
+    font-size: 50px;
+    text-align: center
+    } 
+
+h2 {
+    color: rgb(0, 126, 172);
+    font-size: 30px;
+    text-align: justify;
+}
+
+h3 {
+    color: rgb(0, 126, 172);
+    font-size: 30px;
+}
+
+body {
+    background-image: url("images/back2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    background-attachment: fixed;
+}
+.container{
+    background-color: rgba(43, 230, 230, 0.199);
+    margin: 2px;
+    padding: 75px;
+}
+
+p{
+    color: rgb(41, 36, 27);
+    font-size: 15px;
+    font-family: Arial;
+    text-align: justify;
+}
