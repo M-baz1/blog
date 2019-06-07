@@ -1,35 +1,41 @@
-h1 {
-    color: rgb(0, 126, 172);
-    font-size: 50px;
-    text-align: center
-    } 
-
-h2 {
-    color: rgb(0, 126, 172);
-    font-size: 30px;
-    text-align: justify;
-}
-
-h3 {
-    color: rgb(0, 126, 172);
-    font-size: 24px;
-}
-h4 {
-    color: rgb(0, 126, 172);
-    font-size: 15px;
-}
-
-
 body {
-    background-image: url("images/back2.jpg");
+    background-image: url("images/back3.jpg");
     background-repeat: no-repeat;
     background-size: 100vw;
     background-attachment: fixed;
 }
 .container{
-    background-color: rgba(43, 230, 230, 0.199);
+    background-color: rgba(96, 163, 163, 0.103);
     margin: 2px;
     padding: 75px;
+}
+#myId {
+    color: rgba(221, 24, 24, 0.712);
+    font-size: 45px;
+   }
+
+.browsers{
+    width: 700px;
+}
+h1, h2, h3, h4{
+    color: rgb(0, 126, 172);    
+}
+h1 {
+
+    font-size: 50px;
+    text-align: center;
+    } 
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 24px;
+}
+h4 {
+    font-size: 15px;
 }
 
 p{
@@ -39,7 +45,3 @@ p{
     text-align: justify;
 }
 
-#myId{
-    color: blue;
-    font-size: 20px;
-   }
